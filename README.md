@@ -21,6 +21,6 @@ I am a passionate Web Developer with strong foundations in HTML, CSS, JavaScript
 ## Contact Me
 - **Email:** kotthalilokeswari@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/kotthali-lokeswari-20b193365https://www.linkedin.com/in/kott...
-- **Location:** Open to Remote & Hyderabad roles
+- **Location:** Open to Remote & Hyderabad roles, banglore 
 
 I am actively seeking Web Developer & Fresher opportunities and currently learning more JavaScript frameworks.
